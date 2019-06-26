@@ -26,4 +26,3 @@ export class HeroService {
     return of(HEROES);
   }
 }
-}
